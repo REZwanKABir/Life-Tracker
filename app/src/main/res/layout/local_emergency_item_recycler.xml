@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:cardCornerRadius="@dimen/_6sdp"
+    app:cardElevation="@dimen/_2sdp"
+    app:cardUseCompatPadding="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="@dimen/_10sdp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="@dimen/_5sdp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Thana Name: "
+                android:textColor="@color/black"
+                android:textSize="@dimen/_13ssp"
+                android:textStyle="bold" />
+
+            <Space
+                android:layout_width="@dimen/_5sdp"
+                android:layout_height="0dp" />
+
+            <TextView
+                android:id="@+id/thanaName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Zakigonj Police Station"
+                android:textColor="@color/black"
+                android:textSize="@dimen/_13ssp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="@dimen/_5sdp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Hospital Name: "
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/_13ssp" />
+
+                <Space
+                    android:layout_width="@dimen/_5sdp"
+                    android:layout_height="0dp" />
+
+                <TextView
+                    android:id="@+id/hospitalName"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    tools:text="Zakiganj health complex"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/_13ssp" />
+
+            </LinearLayout>
+
+            <Space
+                android:layout_width="0dp"
+                android:layout_height="@dimen/_8sdp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="Hospital Number: "
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/_13ssp" />
+
+                <Space
+                    android:layout_width="@dimen/_5sdp"
+                    android:layout_height="0dp" />
+
+                <TextView
+                    android:id="@+id/hospitalNumber"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    tools:text="01730-324758"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/_13ssp" />
+
+                <Space
+                    android:layout_width="@dimen/_20sdp"
+                    android:layout_height="0dp" />
+
+                <ImageView
+                    android:id="@+id/hospitalCall"
+                    android:layout_width="@dimen/_25sdp"
+                    android:layout_height="@dimen/_25sdp"
+                    android:layout_gravity="center"
+                    android:src="@drawable/ic_baseline_call_24" />
+
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="@dimen/_5sdp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Fire-Service Name: "
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/_13ssp" />
+
+                <Space
+                    android:layout_width="@dimen/_5sdp"
+                    android:layout_height="0dp" />
+
+                <TextView
+                    android:id="@+id/fireServiceName"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    tools:text="Zakiganj Fire Service"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/_13ssp" />
+
+            </LinearLayout>
+
+            <Space
+                android:layout_width="0dp"
+                android:layout_height="@dimen/_8sdp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Fire-service Number: "
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/_13ssp" />
+
+                <Space
+                    android:layout_width="@dimen/_5sdp"
+                    android:layout_height="0dp" />
+
+                <TextView
+                    android:id="@+id/fireServiceNumber"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    tools:text="01760-140757"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/_13ssp" />
+
+                <Space
+                    android:layout_width="@dimen/_20sdp"
+                    android:layout_height="0dp" />
+
+                <ImageView
+                    android:id="@+id/fireServiceCall"
+                    android:layout_width="@dimen/_25sdp"
+                    android:layout_height="@dimen/_25sdp"
+                    android:layout_gravity="center"
+                    android:src="@drawable/ic_baseline_call_24" />
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="OS Number: "
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/_13ssp" />
+
+                <Space
+                    android:layout_width="@dimen/_5sdp"
+                    android:layout_height="0dp" />
+
+                <TextView
+                    android:id="@+id/numberOS"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    tools:text="823256007"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/_13ssp" />
+
+            </LinearLayout>
+            <Space
+                android:layout_width="0dp"
+                android:layout_height="@dimen/_8sdp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Metropolitan Police: "
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/_13ssp" />
+
+                <Space
+                    android:layout_width="@dimen/_5sdp"
+                    android:layout_height="0dp" />
+
+                <TextView
+                    android:id="@+id/Dhaka_Metropolitan_Police"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    tools:text="Dhaka Metropolitan Police"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/_13ssp" />
+
+            </LinearLayout>
+            <Space
+                android:layout_width="0dp"
+                android:layout_height="@dimen/_8sdp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Police Contact: "
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/_13ssp" />
+
+                <Space
+                    android:layout_width="@dimen/_5sdp"
+                    android:layout_height="0dp" />
+
+                <TextView
+                    android:id="@+id/police_contact"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    tools:text="9575500, 01817602050"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/_13ssp" />
+
+            </LinearLayout>
+            <Space
+                android:layout_width="0dp"
+                android:layout_height="@dimen/_8sdp" />
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Email/Fax Number: "
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/_13ssp" />
+
+                <Space
+                    android:layout_width="@dimen/_5sdp"
+                    android:layout_height="0dp" />
+
+                <TextView
+                    android:id="@+id/email_or_fax"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    tools:text="9559933"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/_13ssp" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+        <Space
+            android:layout_width="0dp"
+            android:layout_height="@dimen/_8sdp" />
+
+    </LinearLayout>
+
+
+</androidx.cardview.widget.CardView>
+

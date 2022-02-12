@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "729247554009",
+    "project_id": "life-tracker-f6b47",
+    "storage_bucket": "life-tracker-f6b47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729247554009:android:ea127d669d3dc8cf1a21c8",
+        "android_client_info": {
+          "package_name": "com.WeTechDigital.lifeTracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729247554009-7u5uplqmeshrabt4r7quobvi9di3vovq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.WeTechDigital.lifeTracker",
+            "certificate_hash": "9c3471f8b20bdab50dde17e5963fc40efb29776c"
+          }
+        },
+        {
+          "client_id": "729247554009-f4u77bjpc616adjso2fvenriuhoe0fod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBltNDrhmUhbz9JKfO3OiuwbT32MSy9oDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729247554009-f4u77bjpc616adjso2fvenriuhoe0fod.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

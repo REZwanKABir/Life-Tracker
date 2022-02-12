@@ -1,0 +1,255 @@
+<resources>
+    <string name="app_name">Life Tracker BD</string>
+    <string name="AppsName">Life Tracker BD</string>
+    <string name="hyperLink"><a href='https://github.com/REZwanKABir'>Rezwan Kabir</a></string>
+    <string name="title_activity_maps">Map</string>
+    <string name="default_web_client_id2">207634308159-dvqgdfknt296umb2cldqld2q44s25a9l.apps.googleusercontent.com</string>
+    <string name="Prominent_disclosure">To See maps for automatically track activities,\nallow Life Tracker BD to use your location all of the time,</string>
+    <string name="Prominent_disclosure2">Life Tracker BD will use location in the background \n to show bike rides on the map and send SMS with your current location to yours friends and family if accident happens</string>
+    <string name="permissionCallProminent">To Call your friends and family for calling them in accident point for help,\nallow Life Tracker BD to use your Call and Call logs all of the time</string>
+    <string name="permissionCallProminent2">Life Tracker BD will use call and Call logs\n to call friends and family if accident happen also for calling help to the accident point, call logs allows to redial the same phone number if it not received.</string>
+    <string name="permissionSMSProminent1">To send SMS to your friends and family informing them by giving the location of accident point for help,\nallow Life Tracker BD to use your SMS all of the time</string>
+    <string name="permissionSMSProminent2">Life Tracker BD will use SMS functionality\n to send SMS with current location to friends and family if accident happens</string>
+    <string name="permissionReadWriteProminent1">To Read and Write Data for selecting image from memory and to store some information in memory\nallow Life Tracker BD to use your Internal memory Read and write permission</string>
+    <string name="permissionReadWriteProminent2">Life Tracker BD will use Read and Write of internal memory functionality\n to select image for avatar and also store some information</string>
+    
+    <string name="priority1">Make it as first call list</string>
+    <string name="priority2">Make it as second call list</string>
+    <string name="askingUploadToDatabase">Do you want to upload to online database? Because you have wifi connected</string>
+    <string name="Warning">Enable permission Apps Run In Background to work\nLife Tracker apps properly\nThank You!</string>
+    <string name="Warning2">Allow notification sound in your apps setting to work this Life Tracker apps properly\nThank You!</string>
+    <string name="default_dialer_text">Make sure the outgoing calling is set in phone default dialer,\nOtherwise when this apps will make a call it will stuck on chose action dialog(Phone, Skype)\nThank You!</string>
+    <string name="default_dialer_dialog_text">Set default dialer for this Apps</string>
+    <string name="checking_notification_dialog_text">Checking Notification Sound</string>
+    <string name="_01738567818">01738567818</string>
+
+    <string-array name="DISTRICT">
+        <item>Unknown DISTRICT</item>
+    </string-array>
+    <string-array name="Sylhet">
+        <item>All over Sylhet Thana</item>
+        <item>Holy Health Hospital</item>
+        <item>Upazila Health Complex</item>
+        <item>গোয়ালজুর কমিউনিটি ক্লিনিক</item>
+        <item>উপজেলা স্বাস্থ্য কমপ্লেক্স</item>
+        <item>ইবনে সিনা হাসপাতাল সিলেট লিমিটেড</item>
+        <item> দি হলিস্টিক হেলথ কেয়ার সেন্টার</item>
+        <item> Anwar General Hospital</item>
+        <item> Maa moni digital Diagnostic center</item>
+        <item>Shimantik Hospital and Diagnostic Center</item>
+        <item> Upazila Health Complex</item>
+        <item>Classic Diagnostic Centre</item>
+        <item> Beanibazar Cancer and General Hospital</item>
+        <item> Central Medicare Services</item>
+        <item> Unique Diagnostic Center</item>
+        <item> মাতৃ ছায়া হসপিটাল</item>
+        <item> the beanibazar Diagnostic</item>
+        <item> New Life General Hospital</item>
+        <item> Alpha Poly Clinic</item>
+        <item> Beanibazar Diabetic and Hormone Centre</item>
+        <item> Anwar General Hospital</item>
+        <item>  Upazila Health Complex</item>
+        <item> Jainta popular diagnostic center</item>
+        <item> POPULAR MEDICAL CENTRE AND HOSPITAL SYLHET LTD</item>
+        <item> ইবনে সিনা হাসপাতাল সিলেট লিমিটেড</item>
+        <item> UPAZILLA HEALTH COMPLEX</item>
+        <item> বালাগঞ্জ উপজেলা স্বাস্থ্য কমপ্লেক্স</item>
+        <item> Muslimabad Hospital</item>
+        <item> Sylhet Sahid Shamsuddin Ahmed Hospital</item>
+        <item> Golapganj Upazila Health Complex</item>
+        <item> Fenchuganj Upazila Health Complex</item>
+        <item> Fenchugonj Hospital</item>
+        <item>  Popular General Hospital</item>
+        <item>  VARD Eye Hospital</item>
+        <item> Paradise Medical Complex Hospital</item>
+        <item> Emergency Department, Sylhet M A G Osmani Medical</item>
+        <item>তাজপুর স্বাস্থ্য ও পরিবার কল্যাণ কেন্দ্র</item>
+        <item>Sylhet Sahid Shamsuddin Ahmed Hospital</item>
+        <item>Health Care Hospital and Trauma Centre</item>
+        <item>Sylhet MAG Osmani Medical College Hospital</item>
+        <item> The Prime Care Hospital</item>
+        <item> Upazila Health Complex</item>
+    </string-array>
+
+    <string-array name="Rajshahi">
+        <item>All over Rajshahi Thana</item>
+        <item>Gourhanga Traffic Police Box</item>
+        <item>Boalia Model Police Station</item>
+        <item>RRF Police station</item>
+        <item>CID Divisional Office, Rajshahi</item>
+        <item>Motihar Police Station</item>
+        <item>Uposhahar Police Fari</item>
+        <item>Railway Police Station Rajshahi</item>
+        <item>Rajshahi Metropoliton Traffic Office</item>
+        <item>Mirzapur Police Fari</item>
+        <item>Rajshahi Metropolitan Police Shilponogori Police Fari</item>
+        <item>DB Office Rajshahi</item>
+        <item>Chandrima Thana</item>
+        <item>Gorhanga Police Station</item>
+        <item>Rajpara police station, Rajshahi</item>
+        <item>Paba Model Police Station</item>
+    </string-array>
+
+    <string-array name="Rangpur">
+        <item>All over Rangpur Thana</item>
+        <item>Kotwali Police Station</item>
+        <item>Haragach Thana</item>
+        <item>Tazhat Metro Politon Thana</item>
+        <item>Police Bureau Of investivation (PBI) Rangpur District</item>
+        <item>Kaunia Police Station</item>
+        <item>Gangachara Police Station</item>
+        <item>Mahigonj Thana, Rangpur Metropolitan Police</item>
+    </string-array>
+
+    <string-array name="Mymensingh">
+        <item>All over Mymensingh Thana</item>
+        <item>Mymensingh Sadar Police Station</item>
+        <item>Police Super Office Mymensingh</item>
+        <item>Kotwali Model Thana</item>
+        <item>Traffic Police Station</item>
+        <item>GRP POLICE STATION, MYMENSING</item>
+        <item>Muktagacha Police Station</item>
+        <item>Tarakanda Police Station</item>
+        <item>Trishal Police Station</item>
+        <item>Gouripur Police Station</item>
+        <item>Phulpur Police Station</item>
+        <item>Ishwarganj Police Station</item>
+        <item>Ulama randi bazar utarakand police. Mymensingh District</item>
+        <item>Dhobaura Police Station</item>
+        <item>Bhaluka Model Thana</item>
+    </string-array>
+    <string-array name="Barisal">
+        <item>All over Barisal Thana</item>
+        <item>আগৈলঝাড়া থানা</item>
+        <item>বানারীপাড়া থানা </item>
+        <item>বাকেরগঞ্জ থানা </item>
+        <item>বরিশাল সদর থানা</item>
+        <item>বাবুগঞ্জ থানা a</item>
+        <item>হিজলা থানা </item>
+        <item>মেহেন্দিগঞ্জ থানা </item>
+        <item>গৌরনদী থানা</item>
+        <item> উজিরপুর থানা</item>
+        <item>কোতোয়ালী থানা </item>
+        <item>কাউনিয়া থানা</item>
+    </string-array>
+
+
+    <string-array name="Dhaka">
+        <item>All over Dhaka Thana</item>
+        <item>খিলক্ষেত থানা</item>
+        <item>কাফরুল থানা</item>
+        <item>ধানমন্ডি থানা</item>
+        <item>মোহাম্মদপুর থানা</item>
+        <item>সূত্রাপুর থানা</item>
+        <item>যাত্রাবাড়ী থানা</item>
+        <item>বিমানবন্দর থানা</item>
+        <item>গুলশান থানা</item>
+        <item>উত্তারা পশ্চিম থানা</item>
+        <item>মুগদা থানা</item>
+        <item>রূপনগর থানা</item>
+        <item>ভাষানটেক থানা</item>
+        <item>ভাটারা থানা</item>
+        <item>বনানী থানা</item>
+        <item>ওয়ারী থানা</item>
+        <item>শাহজাহানপুর থানা</item>
+        <item>শেরেবাংলা নগর থানা</item>
+        <item>মিরপুর মডেল থানা</item>
+        <item>দারুস সালাম থানা</item>
+        <item>দক্ষিণখান থানা</item>
+        <item>উত্তরখান থানা</item>
+        <item>তুরাগ থানা</item>
+        <item>উত্তরা মডেল থানা</item>
+        <item>ক্যান্টনমেন্ট থানা</item>
+        <item>বাড্ডা থানা</item>
+        <item>পল্লবী থানা</item>
+        <item>রামপুরা থানা</item>
+        <item>সবুজবাগ থানা</item>
+        <item>কদমতলী থানা</item>
+        <item>চকবাজার থানা</item>
+        <item>কামরাঙ্গীরচর থানা</item>
+        <item>কোতয়ালী থানা</item>
+        <item>লালবাগ থানা</item>
+        <item>কলাবাগান থানা</item>
+        <item>শাহবাগ থানা</item>
+        <item>মতিঝিল থানা</item>
+        <item>খিলগাঁও থানা</item>
+        <item>হাজারীবাগ থানা</item>
+        <item>রমনা মডেল থানা</item>
+        <item>ডেমরা থানা</item>
+        <item>বংশাল থানা</item>
+        <item>নিউমার্কেট থানা</item>
+        <item>গেন্ডারিয়া থানা</item>
+        <item>আদাবর থানা</item>
+    </string-array>
+
+    <string-array name="Khulna">
+        <item>All over Khulna Thana</item>
+        <item>কুষ্টিয়া সদর</item>
+        <item>কুমারখালী</item>
+        <item>খোকসা</item>
+        <item> মিরপুর</item>
+        <item>ভেড়ামারা</item>
+        <item>দৌলতপুর</item>
+        <item>রূপসা</item>
+        <item>দিঘলিয়া</item>
+        <item>ফুলতলা</item>
+        <item>ডুমুরিয়া</item>
+        <item>পাইকগাছা</item>
+        <item>কয়রা</item>
+        <item>বাগেরহাট সদর</item>
+        <item>কচুয়া</item>
+        <item>শরণখোলা</item>
+        <item>কলারোয়া</item>
+        <item>আশাশুনি</item>
+        <item>দেবহাটা</item>
+        <item>কালিগঞ্জ</item>
+        <item>শ্যামনগর</item>
+        <item>যশোর সদর</item>
+        <item>বাঘারপাড়া</item>
+        <item>অভয়নগর</item>
+        <item>মনিরামপুর</item>
+        <item>কেশবপুর</item>
+        <item>ঝিকরগাছা</item>
+        <item>চৌগাছা</item>
+        <item>নড়াইল সদর</item>
+        <item>লোহাগড়া</item>
+        <item>কালিয়া</item>
+        <item>মাগুরা সদর</item>
+        <item>ঝিনাইদহ সদর</item>
+        <item>কালীগঞ্জ</item>
+        <item>কোটচাঁদপুর</item>
+        <item>মেহেরপুর সদর</item>
+        <item> গাংনী</item>
+        <item>মুজিবনগর</item>
+    </string-array>
+
+
+    <string-array name="Chittagong">
+        <item>All over Chittagong Thana</item>
+        <item>মীরসরাই থানা</item>
+        <item>মীরসরাই থানা</item>
+        <item>সন্দ্বীপ থানা</item>
+        <item>রাউজান থানা</item>
+        <item>রাঙ্গুনিয়া থানা</item>
+        <item>ফটিকছড়ি থানা</item>
+        <item>ভুজপুর থানা</item>
+        <item>হাটহাজারী থানা</item>
+        <item>পটিয়া থানা</item>
+        <item>আনোয়ারা থানা</item>
+        <item>চন্দনাইশ থানা</item>
+        <item>বোয়ালখালী থানা</item>
+        <item>বাঁশখালী থানা</item>
+        <item>লোহাগাড়া থানা</item>
+        <item>সাতকানিয়া থানা</item>
+        <item>বায়েজিদ থানা</item>
+        <item>পাঁচলাইশ থানা</item>
+        <item>পতেঙ্গা থানা</item>
+        <item>চান্দগাঁও থানা</item>
+        <item> বন্দর থানা</item>
+        <item>হালিশহর থানা</item>
+        <item>কর্ণফুলী থানা</item>
+        <item>খুলশী থানা</item>
+        <item>কোতোয়ালি থানা</item>
+    </string-array>
+
+</resources>
